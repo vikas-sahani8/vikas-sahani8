@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vikas Sahani</h1>
-<h3 align="center">🚀 Software Development Engineer in Test | Passionate About Automation & Front-end Development</h3>
+<h3 align="center">🚀 Software Development Engineer in Test | Passionate About Automation & Development</h3>
 
 ---
 
