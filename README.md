@@ -9,7 +9,8 @@
 ---
 
 ## 🚀 About Me  
-<img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWttYWdxYnV3dzFhcDZuMXR4aWdkZjN5Z3FobXBvMGR0dmtsM2NvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RatNF4ZuRisGEgUpZp/giphy.gif">
+
+<img align="right" alt="Coding" width="250"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZxOTIwNDl0amduNXF6cTR0YzdybWd3Z2xyZml4MGNtcWhpMnhnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ubia9QvVowdRzVutIK/giphy.gif">
 
 🔹 **Software Development Engineer in Test (SDET)** with expertise in automation testing and front-end development.  
 🔹 Passionate about **building scalable, efficient, and reliable automation solutions**.  
